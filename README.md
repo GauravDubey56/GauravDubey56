@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/Github-4078c0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GauravDubey56)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-dubey-715083189/)
-[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeygaurav0506.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeygaurav0506@gmail.com)
 
 ---
 ## 🛠 Languages and Tools
