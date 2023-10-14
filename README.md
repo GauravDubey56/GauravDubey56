@@ -4,9 +4,11 @@
 ## 👨🏻‍💻 About Me
 <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-🌱 I am a software developer passionate about new Technologies and like to explore new projects.\
-🎓 I'm currently pursuing B.Tech in IT and MI at Cluster Innovation Centre, University of Delhi. \
-🏆 My goal is to contribute to Open Source Projects and build projects for real time use cases on a large scale. \
+🌱 I am a Software Engineer, passionate about new technologies and like to explore new projects.\
+🌱 Currently working as SDE (Backend) at a Nakad (fintech startup working on capital invoicing based credit and tools for automated reconciliation) and have previously worked at Leverage Edu.\
+📫 I am learning and building an OAuth system which removes abstractions while setup and helps auth setup for web apps easier.\
+🎓 B.Tech in IT and MI at Cluster Innovation Centre, University of Delhi. \
+🏆 My goal is to contribute to build tools and apps that automates dev tasks or simplifies development processes. \
 📫 Feel free to reach me at **dubeygaurav0506@gmail.com**. 
 
 ---
