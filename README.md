@@ -6,8 +6,8 @@
 
 I am a Software Engineer, passionate about new technologies and like to explore new projects.\
 My goal is to contribute and build tools and apps that automates dev tasks or simplifies development processes. \
-🌱 SDE (Backend) at <a href="https://www.linkedin.com/company/nakadaaj/mycompany/" target="_blank">Nakad</a> (fintech startup working on capital invoicing based credit and tools for automated reconciliation).\
-🏆 Currently, I am learning and building an OAuth system which removes abstractions while setup and helps auth setup for web apps easier. <a href="https://github.com/GauravDubey56/Authenticator-App-Server" target="_blank">Server Repo</a>\
+🌱 Backend Engineer at <a href="https://www.linkedin.com/company/nakadaaj/mycompany/" target="_blank">Nakad</a> (fintech startup working on capital invoicing based credit and tools for automated reconciliation).\
+
 🎓 B.Tech (Information Technology) from Cluster Innovation Centre, University of Delhi (2023), previously worked at <a href="https://www.linkedin.com/company/leverage-edu/" target="_blank">Leverage Edu</a>. \
 📫 Feel free to reach me at **dubeygaurav0506@gmail.com**. 
 
